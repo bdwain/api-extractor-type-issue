@@ -1,0 +1,15 @@
+{
+  "name": "api-extractor-type-issue",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:bdwain/api-extractor-type-issue.git",
+  "author": "bryandwain@gmail.com",
+  "license": "MIT",
+  "dependencies": {
+    "@microsoft/api-extractor": "^7.31.2",
+    "typescript": "^4.8.3"
+  },
+  "scripts": {
+    "extract": "api-extractor run"
+  }
+}
